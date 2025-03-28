@@ -2,4 +2,4 @@
 Testing.
 
 + [README](README)
-+ [[README]]
++ [readme](readme)
